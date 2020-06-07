@@ -1,0 +1,8 @@
+# include <studio.h>
+nterms=10
+a,b=0,1
+for x in range(nterms):
+     print(a) 
+     c=a+b
+     a=b
+     b=c
