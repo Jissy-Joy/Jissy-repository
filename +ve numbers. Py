@@ -1,0 +1,5 @@
+# include <studio.h>
+list1=[12,-7,5,64,-14,12,14,-95,3]
+for x in list1:
+    if x>0 :
+       print(x) 
