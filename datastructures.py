@@ -20,5 +20,5 @@ print(tuple1[1: ])
 
 dict1={"albin":10,"salvin":20,"johnvin":30}
 print(dict1) 
-del dict1["albin"]
+deldict1["albin"]
 print(dict1)
